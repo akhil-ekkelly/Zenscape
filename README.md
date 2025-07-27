@@ -7,7 +7,7 @@
 
 ## 🌟 Features
 
-- 🌲 Multiple ambient environments: Forest, Waterfall, and Meditation
+- 🌲 Multiple ambient environments
 - 🔊 Immersive spatial audio using Unity’s built-in audio tools
 - 🎧 Optimized for headphone users
 - 📱 Deployed as an Android app using Gradle and Android Studio
